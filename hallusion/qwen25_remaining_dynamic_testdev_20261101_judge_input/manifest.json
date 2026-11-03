@@ -1,0 +1,17 @@
+{
+  "status": "prepared_not_scored",
+  "source_run": "/hkfs/work/workspace/scratch/tum_yvc3016-comp/workspace/outputs/qwen25_remaining_dynamic_testdev_20261101",
+  "methods": [
+    "dense",
+    "eadp",
+    "prunesid",
+    "mmtok",
+    "old_mlp",
+    "visual_selector",
+    "image_context_selector",
+    "question_context_selector",
+    "protected_selector"
+  ],
+  "limited": false,
+  "note": "Each JSONL line wraps the native judge payload under record; no external request was made."
+}
